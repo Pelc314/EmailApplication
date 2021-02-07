@@ -6,8 +6,9 @@ Company mail and employee name is fixed currently but in this project I wanted t
 
 Code is written using java and is run in console.
 
-Example:
-![alt text](https://github.com/[Pelc314]/[EmailApplication]/blob/[main]/img/EmailApp_ConsoleView.jpg?raw=true)
+## Example:
+![picture](https://github.com/Pelc314/EmailApplication/blob/main/img/EmailApp_ConsoleView.jpg)
+
 
 In this case I chose the second department and the app worked around that information. It created an email address for Jan who works in the development department. It created a random password for him and added default mailbox capacity.
 
